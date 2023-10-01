@@ -1,0 +1,379 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+[
+  <View
+    style={
+      {
+        "height": 110,
+      }
+    }
+  />,
+  <View
+    style={
+      {
+        "backgroundColor": "white",
+        "borderTopLeftRadius": 40,
+        "flex": 1,
+        "paddingHorizontal": 10,
+        "paddingTop": 40,
+      }
+    }
+  >
+    <RCTScrollView>
+      <View>
+        <Text>
+          Popular
+        </Text>
+        <View
+          style={
+            {
+              "flexDirection": "row",
+              "flexWrap": "wrap",
+              "gap": 10,
+              "marginTop": 15,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "height": 246,
+                "opacity": 1,
+                "width": 360,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "testUri": "../../../assets/Chicken.png",
+                }
+              }
+              style={
+                {
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "height": 216,
+                  "width": 360,
+                }
+              }
+            />
+            <Text>
+              Chicken
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "height": 246,
+                "opacity": 1,
+                "width": 360,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "testUri": "../../../assets/Keto.png",
+                }
+              }
+              style={
+                {
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "height": 216,
+                  "width": 360,
+                }
+              }
+            />
+            <Text>
+              Keto
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "height": 246,
+                "opacity": 1,
+                "width": 360,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "testUri": "../../../assets/Cake.png",
+                }
+              }
+              style={
+                {
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "height": 216,
+                  "width": 360,
+                }
+              }
+            />
+            <Text>
+              Cake
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "height": 246,
+                "opacity": 1,
+                "width": 360,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "testUri": "../../../assets/Bread.png",
+                }
+              }
+              style={
+                {
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "height": 216,
+                  "width": 360,
+                }
+              }
+            />
+            <Text>
+              Bread
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "height": 246,
+                "opacity": 1,
+                "width": 360,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "testUri": "../../../assets/Salad.png",
+                }
+              }
+              style={
+                {
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "height": 216,
+                  "width": 360,
+                }
+              }
+            />
+            <Text>
+              Salad
+            </Text>
+          </View>
+          <View
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={false}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              {
+                "alignItems": "center",
+                "height": 246,
+                "opacity": 1,
+                "width": 360,
+              }
+            }
+          >
+            <Image
+              source={
+                {
+                  "testUri": "../../../assets/Pizza.png",
+                }
+              }
+              style={
+                {
+                  "borderTopLeftRadius": 15,
+                  "borderTopRightRadius": 15,
+                  "height": 216,
+                  "width": 360,
+                }
+              }
+            />
+            <Text>
+              Pizza
+            </Text>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>,
+]
+`;

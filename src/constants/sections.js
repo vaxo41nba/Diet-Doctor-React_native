@@ -1,0 +1,70 @@
+export default [
+  {
+    title: 'Cooking time',
+    variants: ['< 15 min', '15-30 min', '30+ min'],
+  },
+  {
+    title: 'Satiety score',
+    variants: ['< 40', '40-59', '> 60'],
+  },
+  {
+    title: 'Type',
+    variants: [
+      'Meal',
+      'Side dish',
+      'Breakfast',
+      'Bread',
+      'Condiments',
+      'Dessert',
+      'Snack',
+      'Appetizer',
+      'Main course',
+      'Beverage',
+      'Lunch',
+      'Dinner',
+    ],
+  },
+  {
+    title: 'Protein',
+    variants: [
+      'Fish',
+      'Beef',
+      'Pork',
+      'Poultry',
+      'Lamb',
+      'Seafood',
+      'Egg',
+      'Game',
+      'Tofu / tempeh',
+    ],
+  },
+  {
+    title: 'Diet',
+    variants: ['Vegan', 'Vegetarian', 'Dairy free', 'High-protein'],
+  },
+  {
+    title: 'Strictness',
+    variants: ['Keto', 'Moderate', 'Liberal'],
+  },
+  {
+    title: 'Difficulty',
+    variants: ['Begginer', 'Easy', 'Medium', 'Hard'],
+  },
+  {
+    title: 'Ingredient',
+    variants: [
+      'Fish',
+      'Beef',
+      'Pork',
+      'Meat',
+      'Lamb',
+      'Seafood',
+      'Egg',
+      'Chicken',
+      'Turkey',
+      'Nuts',
+      'Duck',
+      'Grains',
+    ],
+  },
+];
